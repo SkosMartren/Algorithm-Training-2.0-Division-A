@@ -1,6 +1,5 @@
 #include<iostream>
 #include<algorithm> // swap
-#include<cmath> // abs
 
 using namespace std;
 
@@ -31,6 +30,6 @@ int main() {
 	}
 	
 	// output
-	cout << abs(B_max - B_min);
+	cout << (B_max - B_min);
 	return 0;
 }
