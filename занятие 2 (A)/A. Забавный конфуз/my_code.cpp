@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
 
-
+	// input and solution
 	int N, K;
 	cin >> N >> K;
 
@@ -28,7 +28,8 @@ int main() {
 			B_min = B_i;
 		}
 	}
-
+	
+	// output
 	cout << abs(B_max - B_min);
 	return 0;
 }
