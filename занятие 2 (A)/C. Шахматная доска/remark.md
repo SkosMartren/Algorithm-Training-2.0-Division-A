@@ -1,3 +1,12 @@
+- Условие с картинкой: https://pro-prof.com/forums/topic/acm_chess_perimeter
+
+- Источник  
+Московская городская олимпиада школьников по информатике, 2006/07 учебный год  
+https://olympiads.ru/moscow/2006/och/archive.shtml  
+https://informatics.msk.ru/mod/statements/view.php?id=366&chapterid=513#1  
+
+
+- Замечание  
 раздел solution можно сократить до
 ```objectivec
 vector<pair<int, int» steps = { { -1, 0 } , { 1, 0 } , { 0, 1 }, { 0, - 1 }
