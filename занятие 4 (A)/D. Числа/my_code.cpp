@@ -7,7 +7,7 @@ using namespace std;
 void reading_symbols(const string& s, vector<int>& symbols_A) {
 
 	for (const auto chr : s) {
-		++symbols_A[int(chr) - '0'];
+		++symbols_A[chr - '0'];
 	}
 
 }
@@ -29,6 +29,8 @@ int main() {
 	}
 
 	// output
+	// Вывод мне не нравится - я бы сначала создал строчку / массив цифр для вывода
+//Потом уже вне цикла сравнил бы первый символ вывода с 0 - если 0, то вывел бы один ноль, иначе весь вектор
 	bool check = true;
 	for (int i = 9; i >= 0; --i) {
 		for (int j = 0; j < symbols_A[i]; ++j) {
