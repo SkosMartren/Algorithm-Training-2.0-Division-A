@@ -1,0 +1,1 @@
+AAABBB --> ABABA or ABBBA?
