@@ -28,6 +28,7 @@ Denis Paukaev, [8/24/2022 6:48 PM]
 Till Schneider, [8/24/2022 7:36 PM]
 [In reply to First name Last name]
 https://godbolt.org/z/eahfsE3Tq  
+```objectivec
 #include <iostream>
 #include <algorithm>
 #include <functional>
@@ -52,3 +53,4 @@ int main() {
   } while (next_k_permutation(first, mid, last));
 
 }
+```
