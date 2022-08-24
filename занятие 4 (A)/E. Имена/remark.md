@@ -5,10 +5,10 @@
 буквой с в имени ребенка — это буква a.
 
 - Источник  
-[Всероссийская олимпиада школьников по информатике. Региональный этап 19 и 21 января 2013 года. Третий этап, второй тур. Задача 6. Имена](https://neerc.ifmo.ru/school/archive/2012-2013.html)  
-[не требуется архиватор](https://olimpiada.ru/activity/73/tasks/2012?class=11&year=2012)
+1. [Всероссийская олимпиада школьников по информатике. Региональный этап 19 и 21 января 2013 года. Третий этап, второй тур. Задача 6. Имена](https://neerc.ifmo.ru/school/archive/2012-2013.html)  
+2. [не требуется архиватор](https://olimpiada.ru/activity/73/tasks/2012?class=11&year=2012)
 
 
 - Разбор  
-[Архив научного комитета, содержит задачи, тесты, решения](https://neerc.ifmo.ru/school/archive/2012-2013.html)  
-[не требуется архиватор](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2012-13/reg/iikt/ans-iikt-9-11-reg-12-3.pdf)
+1. [Архив научного комитета, содержит задачи, тесты, решения](https://neerc.ifmo.ru/school/archive/2012-2013.html)  
+2. [не требуется архиватор](https://vos.olimpiada.ru/upload/files/Arhive_tasks/2012-13/reg/iikt/ans-iikt-9-11-reg-12-3.pdf)
