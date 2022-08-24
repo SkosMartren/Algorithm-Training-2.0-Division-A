@@ -27,4 +27,28 @@ Denis Paukaev, [8/24/2022 6:48 PM]
 
 Till Schneider, [8/24/2022 7:36 PM]
 [In reply to First name Last name]
-https://godbolt.org/z/eahfsE3Tq
+https://godbolt.org/z/eahfsE3Tq  
+#include <iostream>
+#include <algorithm>
+#include <functional>
+
+
+template<class RandIt>
+bool next_k_permutation(RandIt first, RandIt mid, RandIt last)
+{
+    using value_type = typename std::iterator_traits<RandIt>::value_type;
+
+    std::sort(mid, last, std::greater<value_type>());
+    return std::next_permutation(first, last);
+}
+
+int main() {
+  std::string s = "123";
+  auto first = s.begin();
+  auto mid = s.begin() + 2;
+  auto last = s.end();
+  do {
+        std::cout << std::string(first, mid) << std::endl;
+  } while (next_k_permutation(first, mid, last));
+
+}
