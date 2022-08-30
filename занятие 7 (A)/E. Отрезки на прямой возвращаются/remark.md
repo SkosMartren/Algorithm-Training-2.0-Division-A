@@ -42,4 +42,5 @@ Slava Muravjev, [8/31/2022 12:22 AM]
 Slava Muravjev, [8/31/2022 12:22 AM]
 sys.readlines()
 
-тебе надо ввод ускорить мб
+тебе надо ввод ускорить мб  
+https://drive.google.com/drive/folders/1LIbOgIPJkXiwXjaLTJjLWQn2ujKttH9P
