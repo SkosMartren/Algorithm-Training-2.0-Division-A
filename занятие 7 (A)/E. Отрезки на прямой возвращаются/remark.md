@@ -41,3 +41,5 @@ Slava Muravjev, [8/31/2022 12:22 AM]
 
 Slava Muravjev, [8/31/2022 12:22 AM]
 sys.readlines()
+
+тебе надо ввод ускорить мб
